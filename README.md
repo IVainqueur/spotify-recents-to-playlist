@@ -1,4 +1,4 @@
-# Spotify Recents Grouper
+# Spotify Recents 2 Playlist
 
 A sleek and modern web application that lets you connect to your Spotify account and explore your recently played tracks. Built with Next.js, this app provides a polished user experience with a vibe that's as smooth as your favorite playlist.
 

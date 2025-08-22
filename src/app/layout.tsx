@@ -7,7 +7,7 @@ import Providers from "@/components/Providers"
 const montserrat = Montserrat({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Spotify Recents to Playlist",
+  title: "Spotify Recents 2 Playlist",
   description: "Group your recently played songs into playlists",
 }
 
