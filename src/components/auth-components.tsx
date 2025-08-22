@@ -10,7 +10,7 @@ export function SignIn() {
     >
       <button
         type="submit"
-        className="bg-[--spotify-green] text-white font-bold py-3 px-6 rounded-full uppercase tracking-widest hover:bg-[#1ed760] transition-colors"
+        className="bg-[#1ed760] text-white font-bold py-3 px-6 rounded-full uppercase tracking-widest hover:bg-[#1ed760]/80 transition-colors"
       >
         Login with Spotify
       </button>
