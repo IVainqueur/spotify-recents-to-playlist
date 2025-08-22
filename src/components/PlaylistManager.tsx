@@ -28,7 +28,7 @@ export default function PlaylistManager({
   const handleAddToPlaylist = async () => {
     if (!selectedPlaylist) return
     setStatus("Adding to playlist...")
-    await fetch(
+    const response = await fetch(
       `https://api.spotify.com/v1/playlists/${selectedPlaylist}/tracks`,
       {
         method: "POST",
